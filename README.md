@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adelkar.mihir@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mihiradelkar)
 
-I'm a Software Engineer currently working for Keelworks and recently graduated from Northeastern University, specializing in full-stack development and cloud technologies. With 3+ years of professional experience building scalable applications serving 500K+ users, I'm passionate about creating innovative solutions and contributing to open-source projects.
+I'm a Software Engineer currently working for AdsGency.Ai and recently graduated from Northeastern University, specializing in full-stack development and cloud technologies. With 3+ years of professional experience building scalable applications serving 500K+ users, I'm passionate about creating innovative solutions and contributing to open-source projects.
 
 ## 🚀 About Me
 
